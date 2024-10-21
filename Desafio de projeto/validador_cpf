@@ -1,0 +1,14 @@
+require "cpf_cnpj"
+
+puts "Insira os número do seu CPF:"
+cpf = gets.chomp
+
+def inspect_cpf(cpf)
+  if CPF.valid?(cpf)
+    puts "CPF correto!"
+  else 
+    puts "Número digitado não é um CPF !!"
+  end
+end
+
+inspect_cpf(cpf)
