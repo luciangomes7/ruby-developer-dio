@@ -1,4 +1,5 @@
-# ruby-developer-dio-ds1
+# Formação Ruby Developer
+
 Repositório com os códigos solicitados no Curso: Formação Ruby Developer - DIO
 <p align="center">
   <img src="./Imagem-readme/Ruby-Developer-DIO.webp" alt="Imagem 1" width="45%">
