@@ -1,6 +1,7 @@
-# Formação Ruby Developer
+<h1 align="center">Formação Ruby Developer</h1>
+
 <p align="center">
-  <img src="./Imagem-readme/Ruby-Developer-DIO.webp" alt="Imagem 1" width="45%">
+    <img src="./Imagem-readme/Ruby-Developer-DIO.webp" alt="Imagem 1" width="28%">
 </p>
 
 <h2>Sobre o Repositório</h2> <p align="justify">
@@ -19,5 +20,5 @@ O curso é encontrado na plataforma da DIO e segundo a empresa, durante a Forma�
 ##
 <p align="center">
   <b>Para mais informações, visite:</b><br>
-  <a href="https://www.dio.me/"><img src="./Imagem-readme/Logo-DIO.png" alt="Imagem 2" width="45%"></a> 
+  <a href="https://www.dio.me/"><img src="./Imagem-readme/Logo-DIO.png" alt="Imagem 2" width="21%"></a> 
 </p>
